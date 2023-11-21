@@ -1,0 +1,38 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1700557847143
+	},
+	"usage": true,
+	"analytics-uuid": "8717005b-4a99-4658-95e1-6e0901781b36",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "117024568248735299939",
+		"email": "aliraza.hmt@gmail.com",
+		"email_verified": true,
+		"at_hash": "5WWOH0lFFNQw-Pky2ia4Bw",
+		"iat": 1700557867,
+		"exp": 1700561467
+	},
+	"tokens": {
+		"expires_at": 1700567184187,
+		"refresh_token": "1//03W4NS9j1FbDXCgYIARAAGAMSNwF-L9IrOFurz0i7sl-TEQcVulI_ulDBWjTVOKwdS5ValbpPKaipOxhZqwumgsuK-748zzibXXo",
+		"scopes": [],
+		"access_token": "ya29.a0AfB_byCK5AAWcr-8p_-z-qD777vTck4SfFgCftRIg8sv0T6M57LuJ9M2zAlb-FygersqUK2qoNRTZl6J64PwvY20dva3kk8-LWaoXNbEfVV2QrKCpNaI4yVITLgzrBAQkF3zq53l8XUFdN_IZdy00G9nk9BbWGHXdtA6BB0HNgaCgYKAYoSARASFQHGX2Mijr-TO5GUzptxQrEqb_TC_Q0177",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjViMzcwNjk2MGUzZTYwMDI0YTI2NTVlNzhjZmE2M2Y4N2M5N2QzMDkiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE3MDI0NTY4MjQ4NzM1Mjk5OTM5IiwiZW1haWwiOiJhbGlyYXphLmhtdEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6IlE5Y2dZZmVVQnlWYXF4VmVKRC1JdWciLCJpYXQiOjE3MDA1NjM1ODQsImV4cCI6MTcwMDU2NzE4NH0.fuE40YppRaWR1S9ygpMTGAPxGWi5_2mD0ddzF6kvs3pXbyI8pdH7lkXsrT24icjEfrmAViXTxq5OOsM5JDA0qplbcetl2151Vn0_4L6FFJOAGq-dj9esq52JI7z1qkO2cIrW_wIESCUTNLWn4omBLGMUbiAYy6hKrrgj2Lufi2lSVWm6q974NJhcjVj85BzHFDVhzuCgByw-sH3PNmw5LkOJoKafiMSG1JFo-MG3mNkO1rIz2cjK2kd_KmHL3Z_SkTGuJ76vZlf9d65sILDZrQQpvHxSHB-tq5xx5NR2LYvPF3RBWUaToE_yxa6PkbBOgYKiRzNWnfopCSiYCtYbbA"
+	},
+	"activeProjects": {
+		"C:\\Users\\Ali": "idetectapp-10"
+	}
+}
